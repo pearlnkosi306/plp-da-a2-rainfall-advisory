@@ -1,6 +1,6 @@
 # Rainfall Analysis and Planting Advisory
 
-**Author:** MsPear · PLP Data Analytics
+**Author:** Buhle Pearl Nkosi · 1MillionDevsCohort Data Analytics
 
 ## Project Summary
 
